@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    font-family: Arial, sans-serif;
+    background: #ffe6f0;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #ff4081;
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #333;
+    font-size: 1.2rem;
+}
